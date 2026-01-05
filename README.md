@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="[https://linkedin.com/in/sean-worrall-data/](https://www.linkedin.com/in/sean-worrall-data?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bws7RqFdwRuG61qINdZXhsg%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/sean-worrall-data"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:sean_221@live.co.uk"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 

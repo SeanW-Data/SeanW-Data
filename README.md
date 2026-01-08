@@ -39,7 +39,7 @@ When I'm not working with data, I enjoy reading, travelling, going to the gym, a
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
@@ -52,7 +52,8 @@ When I'm not working with data, I enjoy reading, travelling, going to the gym, a
 -->
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+<!--  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge"> -->
+  <img src="https://img.shields.io/badge/Data Storytelling-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>

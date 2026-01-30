@@ -12,11 +12,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm an aspiring data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m an aspiring data analyst with a strong interest in using data to support better business decisions. I enjoy taking raw, imperfect datasets and turning them into clear insights that help teams understand performance, identify risks, and spot opportunities.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My work focuses on building practical dashboards that answer real business questions, writing efficient SQL for exploration and validation, and creating analytical models that support planning and decision-making. I’m particularly interested in pricing analysis, customer behaviour, and translating complex findings into insights that stakeholders can act on.
 
-When I'm not working with data, I enjoy reading, travelling, going to the gym, and gardening. I love exploring new data and the "eureka" moment when data reveals something new and useful.
+Outside of analytics, I enjoy reading, travelling, going to the gym, and gardening. I’m motivated by curiosity and the “eureka” moments that come from uncovering patterns or validating assumptions through data.
 
       
 ## 🔭 What I'm Currently Working On 

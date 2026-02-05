@@ -12,21 +12,24 @@
 </p>
 
 ## 🚀 About Me 
-I’m an aspiring data analyst with a strong interest in using data to support better business decisions. I enjoy taking raw, imperfect datasets and turning them into clear insights that help teams understand performance, identify risks, and spot opportunities.
+I’m an aspiring <strong>Data Analyst / Junior MI Analyst</strong> with a strong focus on using data to support clear, practical business decisions. I enjoy working with raw, imperfect datasets and turning them into structured insights that help teams understand performance, identify risks, and prioritise opportunities.
 
-My work focuses on building practical dashboards that answer real business questions, writing efficient SQL for exploration and validation, and creating analytical models that support planning and decision-making. I’m particularly interested in pricing analysis, customer behaviour, and translating complex findings into insights that stakeholders can act on.
+My core strengths are in <strong>Power BI, SQL, data modelling, and DAX</strong>, with experience delivering end-to-end analytics projects — from data cleaning in Power Query through to executive-level dashboards and actionable recommendations. I’m particularly interested in customer behaviour, pricing and value analysis, and operational performance.
 
-Outside of analytics, I enjoy reading, travelling, going to the gym, and gardening. I’m motivated by curiosity and the “eureka” moments that come from uncovering patterns or validating assumptions through data.
+Before moving fully into analytics, I ran my own business for several years, using data to track KPIs, analyse seasonality, and optimise marketing spend. This gave me a strong commercial mindset and an appreciation for reporting that is accurate, clear, and genuinely useful to decision-makers.
+
+I’ve recently completed a <strong>Level 3 Diploma in Data Analytics</strong> with Power BI, reflecting a deliberate and motivated transition into a data analytics career. I’m actively building a portfolio that demonstrates real-world analytical thinking, practical problem-solving, and clear communication of insights.
 
       
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** EDA of business data using SQL to find descriptive insights and answer high-level business pain points  
-- **Project B:** Analysing a selection of stock data & creating a financial dashboard in Excel
+- **Python Skills:** Further developing my skills in Python with the aim of creating a financial analysis project using Python & Excel
 - **Networking:** Posting progress and advice on LinkedIn to grow a network of like-minded individuals
+  
 ## 🌱 Currently Learning 
 
-- Hypothesis testing 
+- Python Libraries (Matplotlib, Pandas) 
 - Critical thinking & Problem solving
 
 ## 🛠️ Technical Skillset

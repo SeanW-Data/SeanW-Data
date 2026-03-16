@@ -69,5 +69,5 @@ This commercial foundation shapes the way I approach analytics — practical, ou
 <hr/>
 
 <p align="center">
-  Open to Junior Data Analyst, MI Analyst, and Reporting Analyst opportunities.
+  Open to Junior Data Analyst, Operational Analyst, and MI Analyst opportunities.
 </p>

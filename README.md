@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Sean 👋</h1>
 
 <p align="center">
-  <strong>Junior Data Analyst | Power BI | SQL | Reporting & Performance Analytics</strong>
+  <strong>Data Analyst | Power BI | SQL | Reporting & Performance Analytics</strong>
 </p>
 
 <p align="center">
@@ -17,57 +17,20 @@
 
 <h2>About Me</h2>
 
-<p>
-I’m a Junior Data Analyst focused on transforming business data into clear, actionable insights. 
-I specialise in <strong>Power BI dashboard development</strong> and <strong>SQL-based exploratory data analysis</strong>, 
-with an emphasis on performance reporting, KPI tracking, and commercial decision support.
-</p>
+Before I was an analyst, I ran a business for seven years.
 
-<p>
-My experience includes building end-to-end reporting workflows — from data cleaning and modelling 
-(Power Query, star schema design) through to DAX measure development and executive-ready dashboards. 
-I’ve worked with structured datasets ranging from 10k–100k+ records to analyse revenue performance, 
-customer behaviour, and operational trends.
-</p>
+I tracked revenue, monitored margins, built my own reporting in Excel, and made pricing decisions based on what the data told me. The thinking was already there. I just didn't have the title.
 
-<p>
-Before transitioning into analytics, I ran my own business for several years, using structured KPI tracking, 
-forecasting, and performance analysis to drive approximately <strong>20% year-on-year profit growth</strong>. 
-This commercial foundation shapes the way I approach analytics — practical, outcome-focused, and aligned with real business objectives.
-</p>
+The hard part about transitioning into analytics wasn't learning SQL or building dashboards. It was earning credibility without a data job on my CV. So I did the only thing that made sense: I built the work, documented it properly, and let it speak.
 
-<hr/>
+Here's what that looks like in practice:
 
-<h2>Key Projects</h2>
+→ A SQL exploratory analysis of a two-year tech business dataset, where my initial pricing conclusions were completely wrong. Three outlier transactions were inflating the average unit price by distorting Enterprise customer spend. Once I isolated and removed them, the pricing story changed entirely — and I quantified exactly how much. That moment is why I don't trust a result until I've tried to break it.
 
-<h3>📊 Retail Performance Dashboard (Power BI)</h3>
-<ul>
-  <li>Designed a star-schema data model and transformed data using Power Query</li>
-  <li>Developed DAX measures for revenue, margin, and YoY/MoM trend analysis</li>
-  <li>Built an interactive KPI dashboard to analyse performance drivers</li>
-</ul>
+→ A 7-page Power BI report for a fictional UK furniture retailer that looked healthy on the surface — 180% YoY revenue growth — but was deeply fragile underneath. Revenue is concentrated in two cities. Marketing spend is optimised for volume when the data says to optimise for value. Late deliveries clustered around specific couriers, not random operational noise. The report ended with an Insights & Recommendations page, because findings without direction aren't finished.
 
-<h3>💳 Fintech Revenue & Customer Analysis (SQL)</h3>
-<ul>
-  <li>Performed exploratory data analysis using PostgreSQL</li>
-  <li>Utilised JOINs, CTEs, aggregations, subqueries, and window functions</li>
-  <li>Identified revenue concentration patterns and high-value customer segments</li>
-  <li>Structured analysis to simulate real-world financial performance reporting</li>
-</ul>
+→ Two executive dashboards built in Excel from 541,000 raw transactions, cleaned in Python. 64% of customers were repeat buyers, generating 92% of revenue. Cancellation rate sat at 14.8%. The top 10 products accounted for less than 10% of total sales. None of that is visible from a top-line number.
 
-<hr/>
+I work in Power BI (Power Query, DAX, star schema modelling), SQL (PostgreSQL, CTEs, window functions), and Excel. I document everything — data dictionaries, cleaning steps, measure logic — because a report that can't be handed over isn't finished.
 
-<h2>Technical Stack</h2>
-
-<ul>
-  <li><strong>Power BI</strong> (DAX, Power Query, Data Modelling)</li>
-  <li><strong>SQL</strong> (PostgreSQL – JOINs, CTEs, Window Functions)</li>
-  <li><strong>Microsoft Excel</strong> (KPI tracking, forecasting)</li>
-  <li><strong>Python</strong> (pandas, matplotlib – developing)</li>
-</ul>
-
-<hr/>
-
-<p align="center">
-  Open to Junior Data Analyst, Operational Analyst, and MI Analyst opportunities.
-</p>
+I'm looking for a junior analyst or MI reporting role in the East Midlands or remote, where I can contribute from day one and keep getting sharper. If that fits what you're hiring for, I'd welcome a conversation.

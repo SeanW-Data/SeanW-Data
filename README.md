@@ -1,36 +1,128 @@
-<h1 align="center">Hi, I’m Sean 👋</h1>
+<h1 align="center">Hi, I'm Sean 👋</h1>
+<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python</h3>
 
-<p align="center">
-  <strong>Data Analyst | Power BI | SQL | Reporting & Performance Analytics</strong>
+---
+
+## 👤 About Me
+
+Before I worked with data professionally, I ran a business for seven years.
+
+I tracked revenue, monitored margins, built reporting in Excel, and made pricing decisions based on data.  
+The analytical thinking was already there — I just didn’t have the title.
+
+So I built the experience from scratch.
+
+---
+
+## 🚀 What I Do
+
+I design end-to-end analytics projects that replicate real business problems — from raw data through to actionable insights.
+
+- 🐍 Data generation & cleaning (Python, pandas)  
+- 🗄️ Data analysis (SQL, PostgreSQL)  
+- 📊 Data modelling (Power BI, star schema)  
+- 📈 Dashboarding with clear business recommendations  
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 SLA Performance Tracker *(Latest)*
+**Python · PostgreSQL · Power BI**
+
+End-to-end service desk analytics pipeline analysing **8,200 tickets across a full year**.
+
+- Identified SLA performance gap (**70.7% vs 85% target**)  
+- Found key drivers: workload imbalance, reassignments, out-of-hours gaps  
+- Delivered a **two-page MI dashboard** with actionable recommendations  
+
+👉 *Focus: Operational analytics, root cause analysis, decision-ready reporting*
+
+🔗 [View Project](https://github.com/SeanW-Data/sla-performance-tracker)
+
+---
+
+### 🔹 Tech Pricing Analysis
+**SQL**
+
+- Identified outliers distorting the average unit price  
+- Reframed pricing strategy after correcting the data  
+- Quantified impact of incorrect assumptions  
+
+👉 *Focus: Analytical thinking, data validation*
+
+🔗 [View Project](https://github.com/SeanW-Data/sql-exploratory-data-analysis)
+
+---
+
+### 🔹 Retail Performance Report
+**Power BI**
+
+- 180% YoY growth masking underlying risks  
+- Revenue concentrated in two cities  
+- Delivery issues linked to specific couriers  
+
+👉 *Focus: Business insight, storytelling, recommendations*
+
+🔗 [View Project](https://github.com/SeanW-Data/interiva-furniture-powerbi-analytics)
+
+---
+
+### 🔹 Customer & Sales Dashboards
+**Excel + Python**
+
+- Analysed **541,000 transactions**  
+- 64% repeat customers → 92% of revenue  
+- 14.8% cancellation rate  
+
+👉 *Focus: Data cleaning, large datasets, KPI analysis*
+
+🔗 [View Project](https://github.com/SeanW-Data/ecommerce-executive-dashboards)
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sean-worrall-data">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sean_221@live.co.uk">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+---
+
+## 🧠 Approach
+
+I document everything — data definitions, transformations, and logic — because a report that can’t be handed over isn’t finished.
+
+I focus on:
+- Breaking assumptions in the data  
+- Finding root causes, not just trends  
+- Delivering insights that lead to action  
+
+---
+
+## 🎯 What I’m Looking For
+
+Junior Data Analyst / MI Reporting role (East Midlands or remote)
+
+- Contribute to real business decisions  
+- Work across the full analytics workflow  
+- Continue developing in a data-driven environment  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
-<hr/>
+---
 
-<h2>About Me</h2>
-
-Before I was an analyst, I ran a business for seven years.
-
-I tracked revenue, monitored margins, built my own reporting in Excel, and made pricing decisions based on what the data told me. The thinking was already there. I just didn't have the title.
-
-The hard part about transitioning into analytics wasn't learning SQL or building dashboards. It was earning credibility without a data job on my CV. So I did the only thing that made sense: I built the work, documented it properly, and let it speak.
-
-Here's what that looks like in practice:
-
-→ A SQL exploratory analysis of a two-year tech business dataset, where my initial pricing conclusions were completely wrong. Three outlier transactions were inflating the average unit price by distorting Enterprise customer spend. Once I isolated and removed them, the pricing story changed entirely — and I quantified exactly how much. That moment is why I don't trust a result until I've tried to break it.
-
-→ A 7-page Power BI report for a fictional UK furniture retailer that looked healthy on the surface — 180% YoY revenue growth — but was deeply fragile underneath. Revenue is concentrated in two cities. Marketing spend is optimised for volume when the data says to optimise for value. Late deliveries clustered around specific couriers, not random operational noise. The report ended with an Insights & Recommendations page, because findings without direction aren't finished.
-
-→ Two executive dashboards built in Excel from 541,000 raw transactions, cleaned in Python. 64% of customers were repeat buyers, generating 92% of revenue. Cancellation rate sat at 14.8%. The top 10 products accounted for less than 10% of total sales. None of that is visible from a top-line number.
-
-I work in Power BI (Power Query, DAX, star schema modelling), SQL (PostgreSQL, CTEs, window functions), and Excel. I document everything — data dictionaries, cleaning steps, measure logic — because a report that can't be handed over isn't finished.
-
-I'm looking for a junior analyst or MI reporting role in the East Midlands or remote, where I can contribute from day one and keep getting sharper. If that fits what you're hiring for, I'd welcome a conversation.
+⭐ *If you find my projects interesting, feel free to explore my repositories.*

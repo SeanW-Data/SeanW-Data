@@ -118,7 +118,7 @@ Junior Data Analyst / MI Reporting role (East Midlands or remote)
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/sean-worrall-data">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
